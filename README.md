@@ -1,2 +1,5 @@
 # first-ai-repo
-For AI Personal Projects
+
+Working with openai's quickstart, programmed by James Stark
+
+Original at: https://github.com/openai/openai-quickstart-python.git
